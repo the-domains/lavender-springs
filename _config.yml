@@ -1,0 +1,28 @@
+name: Lavender Springs
+favicon: null
+layout_spectrum: 0.2349799182265997
+typography_spectrum: 0.20658225985243917
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6434109385591
+  lightness: 0.583611344685778
+  saturation: 0.15827264660038054
+  rhythmicContrast: 0.28725085593760014
+purpose: []
