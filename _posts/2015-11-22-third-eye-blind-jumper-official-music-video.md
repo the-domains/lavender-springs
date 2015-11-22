@@ -35,8 +35,8 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=LvzodEzseW8'
 title: Third Eye Blind - Jumper (Official Music Video)
-datePublished: '2015-11-22T05:59:16.306Z'
-dateModified: '2015-11-22T05:57:31.513Z'
+datePublished: '2015-11-22T06:00:21.748Z'
+dateModified: '2015-11-22T05:59:16.306Z'
 sourcePath: _posts/2015-11-22-third-eye-blind-jumper-official-music-video.md
 published: true
 inFeed: true
