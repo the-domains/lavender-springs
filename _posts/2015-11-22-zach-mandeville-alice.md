@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Zach Mandeville
-    url: 'https://www.youtube.com/user/zachboyofdestiny'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=o47yZ6u8zHM'
+inLanguage: en
+starred: false
 keywords:
   - duration
   - views
@@ -20,8 +16,14 @@ keywords:
   - treehouse
   - basco
   - '2016'
-description: 'A monologue from the first Super Buffet, at Treehouse Theatre in NYC. I am a lovebot, but am not an in love bot.'
-inLanguage: en
+description: ''
+datePublished: '2015-11-24T22:30:48.366Z'
+dateModified: '2015-11-23T16:35:00.664Z'
+author:
+  - name: Zach Mandeville
+    url: 'https://www.youtube.com/user/zachboyofdestiny'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=o47yZ6u8zHM&feature=applinks'
     type: ios
@@ -33,15 +35,15 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=o47yZ6u8zHM&feature=applinks'
     type: web
-isBasedOnUrl: 'https://www.youtube.com/watch?v=o47yZ6u8zHM'
 title: Zach Mandeville- A.L.I.C.E.
-datePublished: '2015-11-22T05:46:50.986Z'
-dateModified: '2015-11-22T05:45:43.656Z'
 sourcePath: _posts/2015-11-22-zach-mandeville-alice.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
