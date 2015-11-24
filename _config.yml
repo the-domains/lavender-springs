@@ -1,7 +1,7 @@
 name: Lavender Springs
 favicon: null
 layout_spectrum: 0.89161
-typography_spectrum: 0.49805
+typography_spectrum: 0.50643
 title: Lavender Springs
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#dae2b3'
-    - '#b7c185'
-    - '#a69dca'
-    - '#675ca0'
+    - '#f3fbfe'
+    - '#cab3d0'
+    - '#c08bd3'
+    - '#9051bc'
+    - '#4d2995'
   brandStrength: 0.5
   lightness: 0.5625
   saturation: 0.375
