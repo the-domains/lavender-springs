@@ -4,8 +4,15 @@
         <description><![CDATA[Lavender Springs]]></description>
         <link>http://www.funplace.website/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 18:40:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 18:40:57 GMT</lastBuildDate>
         <atom:link href="http://www.funplace.website/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[STANDUP!]]></title>
+            <description><![CDATA[<article><h1>STANDUP!</h1><p>A monologue from the first Super Buffet, at Treehouse Theatre in NYC. I am a lovebot, but am not an in love bot.</p><img src="https://i.ytimg.com/vi/o47yZ6u8zHM/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=o47yZ6u8zHM</link>
+            <guid isPermaLink="false">b4249a28-a0ca-4fb8-a65d-d35b51a52ed2</guid>
+            <pubDate>Wed, 25 Nov 2015 18:40:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Funwater Awesome 1]]></title>
             <description><![CDATA[<article><h1>Funwater Awesome 1</h1><p>The bright first issue of Zach Mandeville's personal zine. Short stories, funny essays, and a lot of feelings.</p></article>]]></description>
