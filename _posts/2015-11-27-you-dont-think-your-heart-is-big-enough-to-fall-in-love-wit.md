@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-27T22:22:45.855Z'
-dateModified: '2015-11-27T22:22:42.879Z'
-title: "I \_DIDN'T THINK MY HEART WAS BIG ENOUGH TO FALL IN LOVE WITH YET ANOTHER EUROPEAN DANCE BAND, THEN THE DØ COMES ALONG AND MY HEART SURPRISES ME WITH ITS SIZE ONCE AGAIN."
+datePublished: '2015-11-28T18:02:07.272Z'
+dateModified: '2015-11-28T18:02:04.438Z'
+title: "I \_didn't think my heart was big enough to love yet another European dance band, and then the Dø come along and my heart surprises me with it's size once again.\_"
 author: []
 sourcePath: _posts/2015-11-27-you-dont-think-your-heart-is-big-enough-to-fall-in-love-wit.md
 published: true
@@ -22,8 +22,7 @@ url: you-dont-think-your-heart-is-big-enough-to-fall-in-love-wit/index.html
 _type: Article
 
 ---
-# I  DIDN'T THINK MY HEART WAS BIG ENOUGH TO FALL IN LOVE WITH YET ANOTHER EUROPEAN DANCE BAND, THEN THE DØ COMES ALONG AND MY HEART SURPRISES ME WITH ITS SIZE ONCE AGAIN.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a0962c1-2a25-4580-9ba7-d947d8a5abc4.jpg)
+# I  didn't think my heart was big enough to love yet another European dance band, and then the Dø come along and my heart surprises me with it's size once again. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a0962c1-2a25-4580-9ba7-d947d8a5abc4.jpg)
 
 [Look at this adorable music video.  Listen to the melody that makes your chest hum like a vacuum cleaner!][0]
 
