@@ -4,8 +4,15 @@
         <description><![CDATA[Lavender Springs]]></description>
         <link>http://www.funplace.website/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Dec 2015 03:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Dec 2015 21:03:51 GMT</lastBuildDate>
         <atom:link href="http://www.funplace.website/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Came up with the brilliant idea for a duvet cover subscription service, spent an hour working out logistics, and slowly realized it was a terrible idea.  Disruptors don't got it easy!</p>]]></description>
+            <link>http://www.funplace.website/16a95317-521a-43ff-9480-af3e367a9cd3/index.html</link>
+            <guid isPermaLink="false">16a95317-521a-43ff-9480-af3e367a9cd3</guid>
+            <pubDate>Thu, 10 Dec 2015 21:03:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Life is a beautiful place asking you to join it despite all your efforts against it!]]></title>
             <description><![CDATA[<article><h1>Life is a beautiful place asking you to join it despite all your efforts against it!</h1><p>Today I walked to a park to grab vegetables that my roommate had ordered for us from a local farmer, and after I maneuvered through the dogs playing in the dog park, and grabbed this huge box of vegetables from the farmer standing at the foot of some church stairs, I walked back to the train to get home.</p></article>]]></description>
@@ -43,7 +50,7 @@
         </item>
         <item>
             <title><![CDATA[I think what I love about Neko Atsume is that when i check in on the yard all the cats are happy to see me, instead of ignoring me for no reason or angrily vomiting into my laundry hamper because of some twisted emotional negotiation I can't figure out.]]></title>
-            <description><![CDATA[<article><h1>I think what I love about Neko Atsume is that when i check in on the yard all the cats are happy to see me, instead of ignoring me for no reason or angrily vomiting into my laundry hamper because of some twisted emotional negotiation I can't figure out.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/27ce0fb9-f863-42dd-9445-b78c5715eb25.PNG"></article>]]></description>
+            <description><![CDATA[<article><h1>I think what I love about Neko Atsume is that when i check in on the yard all the cats are happy to see me, instead of ignoring me for no reason or angrily vomiting into my laundry hamper because of some twisted emotional negotiation I can't figure out.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/37f1e3a8a54685e276eee8bcd5c50079db8580a7.png"></article>]]></description>
             <link>http://www.funplace.website/i-think-what-i-love-about-neko-atsume-is-that-when-i-check-i/index.html</link>
             <guid isPermaLink="false">692d736f-b7f1-4a58-bb0a-c235e80108dd</guid>
             <pubDate>Fri, 27 Nov 2015 19:24:10 GMT</pubDate>
@@ -57,7 +64,7 @@
         </item>
         <item>
             <title><![CDATA[We did our show last night and it was fantastic and people lingered after cos they wanted to hang out and it was rough and we coulda done better but also it felt super warm and cool and I am happy.]]></title>
-            <description><![CDATA[<article><h1>We did our show last night and it was fantastic and people lingered after cos they wanted to hang out and it was rough and we coulda done better but also it felt super warm and cool and I am happy.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/242a0f83-52b6-4471-8d82-d879fed75f2d.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>We did our show last night and it was fantastic and people lingered after cos they wanted to hang out and it was rough and we coulda done better but also it felt super warm and cool and I am happy.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5b9a5748745a7baa7d820a774f42dd9452de078d.jpg"></article>]]></description>
             <link>http://www.funplace.website/we-did-our-show-last-night-and-it-was-fantastic-and-people-l/index.html</link>
             <guid isPermaLink="false">d2a57dfa-b164-46ab-9e27-b7ba544d0bcd</guid>
             <pubDate>Wed, 25 Nov 2015 22:47:48 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.funplace.website/funwater-awesome-2-for-you/index.html</link>
             <guid isPermaLink="false">6a601e8b-3c59-4c17-9288-950f7075201f</guid>
             <pubDate>Wed, 25 Nov 2015 19:51:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[STANDUP!]]></title>
-            <description><![CDATA[<article><h1>STANDUP!</h1><p>A monologue from the first Super Buffet, at Treehouse Theatre in NYC. I am a lovebot, but am not an in love bot.</p><img src="https://i.ytimg.com/vi/o47yZ6u8zHM/hqdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=o47yZ6u8zHM</link>
-            <guid isPermaLink="false">b4249a28-a0ca-4fb8-a65d-d35b51a52ed2</guid>
-            <pubDate>Wed, 25 Nov 2015 18:40:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
